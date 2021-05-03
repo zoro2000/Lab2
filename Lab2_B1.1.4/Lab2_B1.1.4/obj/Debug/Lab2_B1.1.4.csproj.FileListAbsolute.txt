@@ -1,0 +1,9 @@
+D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab2\Source-code\Lab2_B1.1.4\Lab2_B1.1.4\bin\Debug\Lab2_B1.1.4.exe.config
+D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab2\Source-code\Lab2_B1.1.4\Lab2_B1.1.4\bin\Debug\Lab2_B1.1.4.exe
+D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab2\Source-code\Lab2_B1.1.4\Lab2_B1.1.4\bin\Debug\Lab2_B1.1.4.pdb
+D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab2\Source-code\Lab2_B1.1.4\Lab2_B1.1.4\obj\Debug\Lab2_B1.1.4.csprojAssemblyReference.cache
+D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab2\Source-code\Lab2_B1.1.4\Lab2_B1.1.4\obj\Debug\Lab2_B1._1._4.ProjectInstaller.resources
+D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab2\Source-code\Lab2_B1.1.4\Lab2_B1.1.4\obj\Debug\Lab2_B1.1.4.csproj.GenerateResource.cache
+D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab2\Source-code\Lab2_B1.1.4\Lab2_B1.1.4\obj\Debug\Lab2_B1.1.4.csproj.CoreCompileInputs.cache
+D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab2\Source-code\Lab2_B1.1.4\Lab2_B1.1.4\obj\Debug\Lab2_B1.1.4.exe
+D:\NAM_3\HK2_2021_2022\Co_Che_Hoat_Dong_Cua_Ma_Doc\Thuc_hanh\Lab2\Source-code\Lab2_B1.1.4\Lab2_B1.1.4\obj\Debug\Lab2_B1.1.4.pdb
